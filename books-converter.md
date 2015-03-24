@@ -8,5 +8,3 @@ published: true
 ## converter is here
 
 <textarea></textarea>
-
-<script src='/basic-test.js'></script>
