@@ -435,7 +435,7 @@ Then Death said, *ARE YOU HUNGRY, BOY?*
 
 'Yes, sir.' The words came straight from his stomach without the intervention of his brain.
 
-Death nodded, and reined in the horse. It stood on the air, the great circular panorama of the Disc glittering below it. Here and there a city was an range glow; in the warm seas nearer the Rim there was a hint of phosphorescence. In some of the deep valleys the trapped daylight of the Disc, which is slow and slightly heavy[1] was evaporating like silver steam.
+Death nodded, and reined in the horse. It stood on the air, the great circular panorama of the Disc glittering below it. Here and there a city was an range glow; in the warm seas nearer the Rim there was a hint of phosphorescence. In some of the deep valleys the trapped daylight of the Disc, which is slow and slightly heavy[[1]] was evaporating like silver steam.
 
 But it was outshone by the glow that rose towards the stars from the Rim itself. Vast streamers of light shimmered and glittered across the night. Great golden walls surrounded the world.
 
