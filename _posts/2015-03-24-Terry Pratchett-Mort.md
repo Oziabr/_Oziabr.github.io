@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: book
 ---
 
 This is the bright candlelit room where the life-timers are stored – shelf upon shelf of them, squat hourglasses, one for every living person, pouring their fine sand from the future into the past. The accumulated hiss of the falling grains makes the room roar like the sea.
