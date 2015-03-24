@@ -6951,6 +6951,7 @@ He leafed backwards through the unfilled pages until he found the little trail o
 ---
 ---
 # Notes
+<a id="ref1"></a>
 ## 1
 Practically anything can go faster than Disc light, which is lazy and tame, unlike ordinary light. The only thing known to go faster than ordinary light is monarchy, according to the philosopher Ly Tin Wheedle. He reasoned like this: you can't have more than one king, and tradition demands that there is no gap between kings, so when a king dies the succession must therefore pass to the heir instantaneously. Presumably, he said, there must be some elementary particles – kingons, or possibly queons – that do this job, but of course succession sometimes fails if, in mid-flight, they strike an anti-particle, or republicon. His ambitious plans to use his discovery to send messages, involving the careful torturing of a small king in order to modulate the signal, were never fully expounded because, at that point, the bar closed. 
 
@@ -6977,3 +6978,5 @@ There had been half a jar of elderly mayonnaise, a piece of very old cheese, and
 
 ## 7
 Ankh-Morpork had dallied with many forms of government and had ended up with that form of democracy known as One Man, One Vote. The Patrician was the Man; he had the Vote.
+
+[1]: ./#ref1 ('The Patrician was the Man; he had the Vote.')
