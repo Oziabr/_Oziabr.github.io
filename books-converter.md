@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wirings4book
 title: Book Converter
 permalink: /bc/
 published: true
